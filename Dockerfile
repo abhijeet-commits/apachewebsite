@@ -1,4 +1,4 @@
- Use Ubuntu base image
+# Use Ubuntu base image
 FROM ubuntu:latest
 
 # Avoid interactive prompts
